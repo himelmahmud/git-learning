@@ -1,2 +1,2 @@
 this is simple text file.
-complete feature-1 task
+Branch Merge conflicked fix.
